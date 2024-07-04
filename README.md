@@ -1,2 +1,2 @@
 # samsonlinefood
-Website to run CURD operations.
+I developed a project to run CRUD (Create, Read, Update, Delete) operations using Python and SQL. This project involved designing and implementing a database management system that allows users to perform essential database operations efficiently. By leveraging Python's robust libraries and SQL's powerful querying capabilities, I created a seamless interface for interacting with the database, ensuring data integrity and ease of use. This project showcases my proficiency in both Python and SQL, as well as my ability to develop practical solutions to manage and manipulate data effectively.
